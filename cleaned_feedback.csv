@@ -1,0 +1,101 @@
+Customer ID,Feedback Channel,Rating,Comment,Date,Cleaned_Comment,Sentiment,Customer Segment
+C12440,Email,5,Customer support was very helpful.,2024-10-12,customer support was very helpful,Positive,Loyal Customers
+C12430,Survey,3,Very satisfied with my experience.,2024-10-27,very satisfied with my experience,Positive,Neutral Customers
+C12346,Social Media,5,I am unhappy with my purchase.,2024-10-18,i am unhappy with my purchase,Negative,Neutral Customers
+C12351,Survey,5,I am unhappy with my purchase.,2024-10-20,i am unhappy with my purchase,Negative,Neutral Customers
+C12356,Survey,4,Will definitely recommend to others.,2024-10-29,will definitely recommend to others,Neutral,Neutral Customers
+C12438,Email,4,Quick delivery and good quality.,2024-10-31,quick delivery and good quality,Positive,Loyal Customers
+C12399,Email,2,The service was great!,2024-11-03,the service was great,Positive,Neutral Customers
+C12374,Email,2,The service was great!,2024-10-28,the service was great,Positive,Neutral Customers
+C12430,Social Media,4,Very satisfied with my experience.,2024-11-04,very satisfied with my experience,Positive,Loyal Customers
+C12406,Email,4,The product met my expectations.,2024-10-23,the product met my expectations,Neutral,Neutral Customers
+C12441,Social Media,2,Could improve product quality.,2024-11-01,could improve product quality,Neutral,Neutral Customers
+C12376,Social Media,4,The product met my expectations.,2024-10-08,the product met my expectations,Neutral,Neutral Customers
+C12433,Survey,1,Very satisfied with my experience.,2024-11-02,very satisfied with my experience,Positive,Neutral Customers
+C12405,Email,4,I am unhappy with my purchase.,2024-10-19,i am unhappy with my purchase,Negative,Neutral Customers
+C12403,Social Media,4,I am unhappy with my purchase.,2024-10-27,i am unhappy with my purchase,Negative,Neutral Customers
+C12431,Survey,3,Quick delivery and good quality.,2024-10-16,quick delivery and good quality,Positive,Neutral Customers
+C12373,Survey,2,Will definitely recommend to others.,2024-10-06,will definitely recommend to others,Neutral,Neutral Customers
+C12351,Social Media,5,Will definitely recommend to others.,2024-10-14,will definitely recommend to others,Neutral,Neutral Customers
+C12355,Email,4,Will definitely recommend to others.,2024-10-16,will definitely recommend to others,Neutral,Neutral Customers
+C12389,Survey,1,Could improve product quality.,2024-10-26,could improve product quality,Neutral,Neutral Customers
+C12424,Email,2,The product met my expectations.,2024-10-11,the product met my expectations,Neutral,Neutral Customers
+C12363,Email,2,Had some issues with the order.,2024-11-03,had some issues with the order,Neutral,Neutral Customers
+C12443,Social Media,4,Could improve product quality.,2024-10-25,could improve product quality,Neutral,Neutral Customers
+C12422,Email,5,The service was great!,2024-10-12,the service was great,Positive,Loyal Customers
+C12360,Email,3,Will definitely recommend to others.,2024-10-14,will definitely recommend to others,Neutral,Neutral Customers
+C12439,Email,5,Not worth the price.,2024-10-07,not worth the price,Negative,Neutral Customers
+C12406,Email,4,Will definitely recommend to others.,2024-10-21,will definitely recommend to others,Neutral,Neutral Customers
+C12375,Survey,3,Very satisfied with my experience.,2024-10-14,very satisfied with my experience,Positive,Neutral Customers
+C12425,Email,4,The product met my expectations.,2024-10-30,the product met my expectations,Neutral,Neutral Customers
+C12393,Survey,1,Customer support was very helpful.,2024-10-18,customer support was very helpful,Positive,Neutral Customers
+C12347,Email,3,Not worth the price.,2024-10-31,not worth the price,Negative,Neutral Customers
+C12345,Survey,3,The product met my expectations.,2024-10-06,the product met my expectations,Neutral,Neutral Customers
+C12443,Social Media,5,Could improve product quality.,2024-10-25,could improve product quality,Neutral,Neutral Customers
+C12395,Email,3,Could improve product quality.,2024-10-14,could improve product quality,Neutral,Neutral Customers
+C12411,Email,1,Not worth the price.,2024-10-08,not worth the price,Negative,Dissatisfied Customers
+C12348,Email,3,The product met my expectations.,2024-10-29,the product met my expectations,Neutral,Neutral Customers
+C12422,Social Media,2,The service was great!,2024-10-11,the service was great,Positive,Neutral Customers
+C12345,Email,2,Not worth the price.,2024-10-30,not worth the price,Negative,Dissatisfied Customers
+C12373,Social Media,3,The service was great!,2024-10-13,the service was great,Positive,Neutral Customers
+C12396,Survey,5,Will definitely recommend to others.,2024-10-06,will definitely recommend to others,Neutral,Neutral Customers
+C12348,Social Media,1,Could improve product quality.,2024-10-06,could improve product quality,Neutral,Neutral Customers
+C12434,Email,2,Customer support was very helpful.,2024-10-06,customer support was very helpful,Positive,Neutral Customers
+C12391,Social Media,1,Not worth the price.,2024-10-09,not worth the price,Negative,Dissatisfied Customers
+C12439,Email,2,Will definitely recommend to others.,2024-10-08,will definitely recommend to others,Neutral,Neutral Customers
+C12443,Social Media,2,Quick delivery and good quality.,2024-10-29,quick delivery and good quality,Positive,Neutral Customers
+C12421,Email,5,Not worth the price.,2024-10-31,not worth the price,Negative,Neutral Customers
+C12421,Social Media,5,I am unhappy with my purchase.,2024-10-21,i am unhappy with my purchase,Negative,Neutral Customers
+C12417,Survey,3,Had some issues with the order.,2024-10-06,had some issues with the order,Neutral,Neutral Customers
+C12413,Survey,3,The product met my expectations.,2024-10-24,the product met my expectations,Neutral,Neutral Customers
+C12426,Survey,1,The service was great!,2024-10-24,the service was great,Positive,Neutral Customers
+C12394,Survey,5,Not worth the price.,2024-10-07,not worth the price,Negative,Neutral Customers
+C12421,Email,2,Quick delivery and good quality.,2024-10-09,quick delivery and good quality,Positive,Neutral Customers
+C12409,Social Media,4,The service was great!,2024-10-25,the service was great,Positive,Loyal Customers
+C12400,Social Media,5,I am unhappy with my purchase.,2024-10-08,i am unhappy with my purchase,Negative,Neutral Customers
+C12432,Survey,5,The service was great!,2024-10-13,the service was great,Positive,Loyal Customers
+C12368,Survey,1,The product met my expectations.,2024-10-27,the product met my expectations,Neutral,Neutral Customers
+C12394,Survey,1,Will definitely recommend to others.,2024-10-28,will definitely recommend to others,Neutral,Neutral Customers
+C12395,Email,4,The service was great!,2024-10-28,the service was great,Positive,Loyal Customers
+C12355,Social Media,4,Quick delivery and good quality.,2024-10-13,quick delivery and good quality,Positive,Loyal Customers
+C12372,Social Media,1,Customer support was very helpful.,2024-10-05,customer support was very helpful,Positive,Neutral Customers
+C12357,Social Media,4,Had some issues with the order.,2024-10-15,had some issues with the order,Neutral,Neutral Customers
+C12369,Email,5,Very satisfied with my experience.,2024-10-12,very satisfied with my experience,Positive,Loyal Customers
+C12429,Email,1,I am unhappy with my purchase.,2024-11-02,i am unhappy with my purchase,Negative,Dissatisfied Customers
+C12355,Social Media,3,Customer support was very helpful.,2024-11-02,customer support was very helpful,Positive,Neutral Customers
+C12393,Social Media,2,Very satisfied with my experience.,2024-11-03,very satisfied with my experience,Positive,Neutral Customers
+C12349,Email,2,Will definitely recommend to others.,2024-10-27,will definitely recommend to others,Neutral,Neutral Customers
+C12424,Email,5,Had some issues with the order.,2024-10-13,had some issues with the order,Neutral,Neutral Customers
+C12428,Survey,5,Had some issues with the order.,2024-10-30,had some issues with the order,Neutral,Neutral Customers
+C12386,Email,1,The product met my expectations.,2024-10-29,the product met my expectations,Neutral,Neutral Customers
+C12378,Email,5,Quick delivery and good quality.,2024-11-01,quick delivery and good quality,Positive,Loyal Customers
+C12391,Survey,5,The product met my expectations.,2024-10-24,the product met my expectations,Neutral,Neutral Customers
+C12419,Email,5,Could improve product quality.,2024-10-30,could improve product quality,Neutral,Neutral Customers
+C12415,Survey,1,Could improve product quality.,2024-10-07,could improve product quality,Neutral,Neutral Customers
+C12359,Email,1,Had some issues with the order.,2024-10-30,had some issues with the order,Neutral,Neutral Customers
+C12349,Email,5,The service was great!,2024-10-19,the service was great,Positive,Loyal Customers
+C12434,Social Media,2,Very satisfied with my experience.,2024-10-28,very satisfied with my experience,Positive,Neutral Customers
+C12383,Email,4,Will definitely recommend to others.,2024-10-29,will definitely recommend to others,Neutral,Neutral Customers
+C12409,Email,2,Not worth the price.,2024-10-29,not worth the price,Negative,Dissatisfied Customers
+C12377,Survey,5,Could improve product quality.,2024-10-26,could improve product quality,Neutral,Neutral Customers
+C12399,Survey,5,Not worth the price.,2024-11-01,not worth the price,Negative,Neutral Customers
+C12365,Social Media,5,Not worth the price.,2024-10-10,not worth the price,Negative,Neutral Customers
+C12418,Email,5,Could improve product quality.,2024-10-05,could improve product quality,Neutral,Neutral Customers
+C12418,Email,5,The product met my expectations.,2024-10-31,the product met my expectations,Neutral,Neutral Customers
+C12423,Social Media,5,Quick delivery and good quality.,2024-10-24,quick delivery and good quality,Positive,Loyal Customers
+C12348,Survey,1,Very satisfied with my experience.,2024-10-24,very satisfied with my experience,Positive,Neutral Customers
+C12435,Social Media,5,Very satisfied with my experience.,2024-10-15,very satisfied with my experience,Positive,Loyal Customers
+C12364,Social Media,3,I am unhappy with my purchase.,2024-10-17,i am unhappy with my purchase,Negative,Neutral Customers
+C12381,Email,5,The service was great!,2024-10-20,the service was great,Positive,Loyal Customers
+C12400,Survey,5,The product met my expectations.,2024-10-12,the product met my expectations,Neutral,Neutral Customers
+C12354,Social Media,4,Had some issues with the order.,2024-10-13,had some issues with the order,Neutral,Neutral Customers
+C12346,Social Media,3,The product met my expectations.,2024-10-19,the product met my expectations,Neutral,Neutral Customers
+C12418,Survey,1,I am unhappy with my purchase.,2024-10-23,i am unhappy with my purchase,Negative,Dissatisfied Customers
+C12348,Email,2,Had some issues with the order.,2024-10-23,had some issues with the order,Neutral,Neutral Customers
+C12440,Social Media,3,Customer support was very helpful.,2024-10-28,customer support was very helpful,Positive,Neutral Customers
+C12419,Email,1,Quick delivery and good quality.,2024-10-16,quick delivery and good quality,Positive,Neutral Customers
+C12378,Survey,2,Could improve product quality.,2024-10-11,could improve product quality,Neutral,Neutral Customers
+C12443,Survey,2,The product met my expectations.,2024-10-31,the product met my expectations,Neutral,Neutral Customers
+C12388,Email,5,Could improve product quality.,2024-10-09,could improve product quality,Neutral,Neutral Customers
+C12345,Social Media,2,Very satisfied with my experience.,2024-10-18,very satisfied with my experience,Positive,Neutral Customers
+C12408,Social Media,4,Quick delivery and good quality.,2024-10-16,quick delivery and good quality,Positive,Loyal Customers
